@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarketCoin</string>
+    <string name="title_home">Home</string>
+    <string name="title_favoritos">Fav</string>
+    <string name="title_exchange">Exchange</string>
+    <string name="title_noticias">News</string>
+    <string name="title_evento">Event</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Link_melo">172.16.160.71</string>
+</resources>
